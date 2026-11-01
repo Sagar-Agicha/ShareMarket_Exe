@@ -1,0 +1,34 @@
+{"timestamp": "2026-10-31T11:11:06.003430+00:00", "level": "INFO", "source": "backend", "logger": "backend.task_queue", "message": "Using Celery broker sqlite for background tasks"}
+{"timestamp": "2026-10-31T11:11:06.045373+00:00", "level": "INFO", "source": "backend", "logger": "backend.database", "message": "SQLite database initialized at sqlite:///C:/Work/Website/backend/dist/main/users.db"}
+{"timestamp": "2026-10-31T11:11:06.105861+00:00", "level": "INFO", "source": "backend", "logger": "backend.main", "message": "Starting server on 0.0.0.0:18080"}
+{"timestamp": "2026-10-31T11:11:27.301878+00:00", "level": "INFO", "source": "backend", "logger": "backend.task_queue", "message": "Using Celery broker sqlite for background tasks"}
+{"timestamp": "2026-10-31T11:11:27.317402+00:00", "level": "INFO", "source": "backend", "logger": "backend.database", "message": "SQLite database initialized at sqlite:///C:/Work/Website/backend/dist/main/users.db"}
+{"timestamp": "2026-10-31T11:11:27.349433+00:00", "level": "INFO", "source": "backend", "logger": "backend.main", "message": "Starting server on 127.0.0.1:18085"}
+{"timestamp": "2026-10-31T11:11:50.604372+00:00", "level": "INFO", "source": "backend", "logger": "backend.task_queue", "message": "Using Celery broker sqlite for background tasks"}
+{"timestamp": "2026-10-31T11:11:50.618724+00:00", "level": "INFO", "source": "backend", "logger": "backend.database", "message": "SQLite database initialized at sqlite:///C:/Work/Website/backend/dist/main/users.db"}
+{"timestamp": "2026-10-31T11:11:50.651910+00:00", "level": "INFO", "source": "backend", "logger": "backend.main", "message": "Starting server on 0.0.0.0:18085"}
+{"timestamp": "2026-10-31T11:12:09.397956+00:00", "level": "INFO", "source": "backend", "logger": "backend.task_queue", "message": "Using Celery broker sqlite for background tasks"}
+{"timestamp": "2026-10-31T11:12:09.412961+00:00", "level": "INFO", "source": "backend", "logger": "backend.database", "message": "SQLite database initialized at sqlite:///C:/Work/Website/backend/dist/main/users.db"}
+{"timestamp": "2026-10-31T11:12:09.444711+00:00", "level": "INFO", "source": "backend", "logger": "backend.main", "message": "Starting server on 0.0.0.0:18085"}
+{"timestamp": "2026-10-31T11:12:37.978587+00:00", "level": "INFO", "source": "backend", "logger": "backend.task_queue", "message": "Using Celery broker sqlite for background tasks"}
+{"timestamp": "2026-10-31T11:12:37.993280+00:00", "level": "INFO", "source": "backend", "logger": "backend.database", "message": "SQLite database initialized at sqlite:///C:/Work/Website/backend/dist/main/users.db"}
+{"timestamp": "2026-10-31T11:12:38.030214+00:00", "level": "INFO", "source": "backend", "logger": "backend.main", "message": "Starting server on 0.0.0.0:18080"}
+{"timestamp": "2026-10-31T11:26:51.647440+00:00", "level": "INFO", "source": "backend", "logger": "backend.task_queue", "message": "Using Celery broker sqlite for background tasks"}
+{"timestamp": "2026-10-31T11:26:51.658450+00:00", "level": "INFO", "source": "backend", "logger": "backend.database", "message": "SQLite database initialized at sqlite:///C:/Work/Website/backend/dist/main/users.db"}
+{"timestamp": "2026-10-31T11:26:51.686805+00:00", "level": "INFO", "source": "backend", "logger": "backend.main", "message": "Starting server on 0.0.0.0:18080"}
+{"timestamp": "2026-10-31T11:26:51.730156+00:00", "level": "INFO", "source": "backend", "logger": "backend.database", "message": "SQLite database initialized at sqlite:///C:/Work/Website/backend/dist/main/users.db"}
+{"timestamp": "2026-10-31T11:26:51.768758+00:00", "level": "INFO", "source": "backend", "logger": "backend.main", "message": "Started Flower on http://0.0.0.0:5555 using broker sqla+sqlite:///C:/Work/Website/backend/dist/main/celerydb.sqlite"}
+{"timestamp": "2026-10-31T11:26:51.796353+00:00", "level": "INFO", "source": "backend", "logger": "backend.main", "message": "Created default user: admin"}
+{"timestamp": "2026-10-31T11:28:06.228893+00:00", "level": "INFO", "source": "backend", "logger": "backend.task_queue", "message": "Using Celery broker sqlite for background tasks"}
+{"timestamp": "2026-10-31T11:28:06.243220+00:00", "level": "INFO", "source": "backend", "logger": "backend.database", "message": "SQLite database initialized at sqlite:///C:/Work/Website/backend/dist/main/users.db"}
+{"timestamp": "2026-10-31T11:28:06.268817+00:00", "level": "INFO", "source": "backend", "logger": "backend.main", "message": "Starting server on 0.0.0.0:18080"}
+{"timestamp": "2026-10-31T11:28:06.302145+00:00", "level": "INFO", "source": "backend", "logger": "backend.database", "message": "SQLite database initialized at sqlite:///C:/Work/Website/backend/dist/main/users.db"}
+{"timestamp": "2026-10-31T11:28:06.329222+00:00", "level": "INFO", "source": "backend", "logger": "backend.main", "message": "Started Flower on http://0.0.0.0:5555 using broker sqla+sqlite:///C:/Work/Website/backend/dist/main/celerydb.sqlite"}
+{"timestamp": "2026-11-01T10:09:56.227024+00:00", "level": "INFO", "source": "backend", "logger": "backend.task_queue", "message": "Using Celery broker sqlite for background tasks"}
+{"timestamp": "2026-11-01T10:09:56.243211+00:00", "level": "INFO", "source": "backend", "logger": "backend.database", "message": "SQLite database initialized at sqlite:///C:/Work/Website/backend/dist/main/users.db"}
+{"timestamp": "2026-11-01T10:09:56.284877+00:00", "level": "INFO", "source": "backend", "logger": "backend.main", "message": "Starting server on 0.0.0.0:18080"}
+{"timestamp": "2026-11-01T10:09:56.333076+00:00", "level": "INFO", "source": "backend", "logger": "backend.database", "message": "SQLite database initialized at sqlite:///C:/Work/Website/backend/dist/main/users.db"}
+{"timestamp": "2026-11-01T10:09:57.020462+00:00", "level": "INFO", "source": "backend", "logger": "backend.main", "message": "Started Flower on http://0.0.0.0:5555 using broker sqla+sqlite:///C:/Work/Website/backend/dist/main/celerydb.sqlite"}
+{"timestamp": "2026-11-01T10:13:41.594252+00:00", "level": "WARNING", "source": "backend", "logger": "backend.routes.auth", "message": "Failed login attempt for username="}
+{"timestamp": "2026-11-01T10:14:06.641246+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.auth", "message": "User logged in: admin"}
+{"timestamp": "2026-11-01T10:21:15.292235+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.auth", "message": "User logged in: admin"}
