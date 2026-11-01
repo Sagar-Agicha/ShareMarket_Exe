@@ -1,0 +1,20 @@
+2026-11-01 16:40:49,817 | INFO | ========== UPDATE STARTED ==========
+2026-11-01 16:40:50,359 | INFO | Downloading: https://raw.githubusercontent.com/Sagar-Agicha/ShareMarket_Exe/main/main.exe
+2026-11-01 16:45:53,422 | INFO | Downloaded 85456309 bytes
+2026-11-01 16:45:53,768 | INFO | Executable validation successful
+2026-11-01 16:45:53,797 | INFO | No existing application process found
+2026-11-01 16:45:53,798 | INFO | Old executable backed up: C:\Work\Website_Exe\backups\main_20261101_164553.exe
+2026-11-01 16:45:53,799 | INFO | New executable installed
+2026-11-01 16:45:53,799 | INFO | Starting new application
+2026-11-01 16:45:59,183 | INFO | New application started. PID: 40612
+2026-11-01 16:45:59,183 | INFO | ========== UPDATE SUCCESSFUL ==========
+2026-11-01 17:53:47,536 | INFO | ========== UPDATE STARTED ==========
+2026-11-01 17:53:48,081 | INFO | Downloading: https://raw.githubusercontent.com/Sagar-Agicha/ShareMarket_Exe/main/main.exe
+2026-11-01 17:54:33,639 | INFO | Downloaded 85456309 bytes
+2026-11-01 17:54:34,053 | INFO | Executable validation successful
+2026-11-01 17:54:34,093 | INFO | No existing application process found
+2026-11-01 17:54:34,094 | INFO | Old executable backed up: C:\Work\Website_Exe\backups\main_20261101_175434.exe
+2026-11-01 17:54:34,095 | INFO | New executable installed
+2026-11-01 17:54:34,095 | INFO | Starting new application
+2026-11-01 17:54:40,087 | INFO | New application started. PID: 38756
+2026-11-01 17:54:40,087 | INFO | ========== UPDATE SUCCESSFUL ==========
