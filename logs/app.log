@@ -52,3 +52,21 @@
 {"timestamp": "2026-11-01T12:24:44.689586+00:00", "level": "INFO", "source": "backend", "logger": "backend.main", "message": "Starting server on 0.0.0.0:18080"}
 {"timestamp": "2026-11-01T12:24:44.742296+00:00", "level": "INFO", "source": "backend", "logger": "backend.database", "message": "SQLite database initialized at sqlite:///C:/Work/Website_Exe/users.db"}
 {"timestamp": "2026-11-01T12:24:44.768136+00:00", "level": "INFO", "source": "backend", "logger": "backend.main", "message": "Started Flower on http://0.0.0.0:5555 using broker sqla+sqlite:///celerydb.sqlite"}
+{"timestamp": "2026-11-02T09:52:51.534310+00:00", "level": "INFO", "source": "backend", "logger": "backend.task_queue", "message": "Using Celery broker sqlite for background tasks"}
+{"timestamp": "2026-11-02T09:52:51.541817+00:00", "level": "INFO", "source": "backend", "logger": "backend.main", "message": "FRONTEND_DIST: C:\\Users\\SAGARA~1\\AppData\\Local\\Temp\\_MEI60402\\frontend\\dist\\sharemarket-dashboard (index exists: True)"}
+{"timestamp": "2026-11-02T09:52:51.547818+00:00", "level": "INFO", "source": "backend", "logger": "backend.database", "message": "SQLite database initialized at sqlite:///C:/Work/Website_Exe/users.db"}
+{"timestamp": "2026-11-02T09:52:51.587337+00:00", "level": "INFO", "source": "backend", "logger": "backend.main", "message": "Starting server on 0.0.0.0:18080"}
+{"timestamp": "2026-11-02T09:52:51.633357+00:00", "level": "INFO", "source": "backend", "logger": "backend.database", "message": "SQLite database initialized at sqlite:///C:/Work/Website_Exe/users.db"}
+{"timestamp": "2026-11-02T09:52:51.658866+00:00", "level": "INFO", "source": "backend", "logger": "backend.main", "message": "Started Flower on http://0.0.0.0:5555 using broker sqla+sqlite:///C:/Work/Website_Exe/celerydb.sqlite"}
+{"timestamp": "2026-11-02T09:54:20.399463+00:00", "level": "INFO", "source": "backend", "logger": "backend.task_queue", "message": "Using Celery broker sqlite for background tasks"}
+{"timestamp": "2026-11-02T09:54:20.408463+00:00", "level": "INFO", "source": "backend", "logger": "backend.main", "message": "FRONTEND_DIST: C:\\Users\\SAGARA~1\\AppData\\Local\\Temp\\_MEI307962\\frontend\\dist\\sharemarket-dashboard (index exists: True)"}
+{"timestamp": "2026-11-02T09:54:20.412465+00:00", "level": "INFO", "source": "backend", "logger": "backend.database", "message": "SQLite database initialized at sqlite:///C:/Work/Website_Exe/users.db"}
+{"timestamp": "2026-11-02T09:54:20.463230+00:00", "level": "INFO", "source": "backend", "logger": "backend.main", "message": "Starting server on 0.0.0.0:8000"}
+{"timestamp": "2026-11-02T09:54:20.512838+00:00", "level": "INFO", "source": "backend", "logger": "backend.database", "message": "SQLite database initialized at sqlite:///C:/Work/Website_Exe/users.db"}
+{"timestamp": "2026-11-02T09:54:20.540353+00:00", "level": "INFO", "source": "backend", "logger": "backend.main", "message": "Started Flower on http://0.0.0.0:5555 using broker sqla+sqlite:///C:/Work/Website_Exe/celerydb.sqlite"}
+{"timestamp": "2026-11-02T09:56:19.694907+00:00", "level": "INFO", "source": "backend", "logger": "backend.task_queue", "message": "Using Celery broker sqlite for background tasks"}
+{"timestamp": "2026-11-02T09:56:19.703894+00:00", "level": "INFO", "source": "backend", "logger": "backend.main", "message": "FRONTEND_DIST: C:\\Users\\SAGARA~1\\AppData\\Local\\Temp\\_MEI356082\\frontend\\dist\\sharemarket-dashboard (index exists: True)"}
+{"timestamp": "2026-11-02T09:56:19.707892+00:00", "level": "INFO", "source": "backend", "logger": "backend.database", "message": "SQLite database initialized at sqlite:///C:/Work/Website_Exe/users.db"}
+{"timestamp": "2026-11-02T09:56:19.751508+00:00", "level": "INFO", "source": "backend", "logger": "backend.main", "message": "Starting server on 0.0.0.0:8000"}
+{"timestamp": "2026-11-02T09:56:19.799428+00:00", "level": "INFO", "source": "backend", "logger": "backend.database", "message": "SQLite database initialized at sqlite:///C:/Work/Website_Exe/users.db"}
+{"timestamp": "2026-11-02T09:56:19.823761+00:00", "level": "INFO", "source": "backend", "logger": "backend.main", "message": "Started Flower on http://0.0.0.0:5555 using broker sqla+sqlite:///C:/Work/Website_Exe/celerydb.sqlite"}
