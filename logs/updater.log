@@ -40,3 +40,91 @@
 2026-11-02 15:26:10,560 | INFO | Starting new application
 2026-11-02 15:26:15,952 | INFO | New application started. PID: 35608
 2026-11-02 15:26:15,952 | INFO | ========== UPDATE SUCCESSFUL ==========
+2026-11-25 12:15:38,781 | INFO | ========== UPDATE STARTED ==========
+2026-11-25 12:15:39,179 | INFO | Downloading: https://raw.githubusercontent.com/Sagar-Agicha/ShareMarket_Exe/main/main.exe
+2026-11-25 12:15:56,285 | INFO | Downloaded 82160622 bytes
+2026-11-25 12:15:56,663 | INFO | Executable validation successful
+2026-11-25 12:15:56,663 | INFO | Requesting application shutdown...
+2026-11-25 12:15:56,667 | INFO | Shutdown request (POST) result: HTTP Error 405: Method Not Allowed
+2026-11-25 12:15:56,671 | INFO | Shutdown response (GET): 200
+2026-11-25 12:15:56,671 | INFO | Waiting for application to exit...
+2026-11-25 12:16:02,719 | INFO | Application still running ([33368, 33448]). Initiating process termination fallback...
+2026-11-25 12:16:02,787 | INFO | Application has completely stopped
+2026-11-25 12:16:02,788 | INFO | Old executable backed up: C:\Work\Website_Exe\backups\main_20261125_121602.exe
+2026-11-25 12:16:02,789 | INFO | New executable installed
+2026-11-25 12:16:02,789 | INFO | Starting new application
+2026-11-25 12:16:08,381 | INFO | New version failed to start. Rolling back.
+2026-11-25 12:16:08,382 | INFO | Starting new application
+2026-11-25 12:16:14,064 | ERROR | UPDATE FAILED
+Traceback (most recent call last):
+  File "updater.py", line 270, in main
+  File "updater.py", line 238, in start_application
+RuntimeError: Application exited during startup. Exit code: 3221225794
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "updater.py", line 281, in main
+  File "updater.py", line 238, in start_application
+RuntimeError: Application exited during startup. Exit code: 3221225794
+2026-11-25 12:18:14,544 | INFO | ========== UPDATE STARTED ==========
+2026-11-25 12:18:14,648 | INFO | Downloading: https://raw.githubusercontent.com/Sagar-Agicha/ShareMarket_Exe/main/main.exe
+2026-11-25 12:18:27,072 | INFO | Downloaded 82160622 bytes
+2026-11-25 12:18:27,416 | INFO | Executable validation successful
+2026-11-25 12:18:27,416 | INFO | Requesting application shutdown...
+2026-11-25 12:18:29,460 | INFO | Shutdown request (POST) result: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>
+2026-11-25 12:18:31,530 | INFO | Shutdown request (GET) result: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>
+2026-11-25 12:18:31,531 | INFO | Waiting for application to exit...
+2026-11-25 12:18:31,557 | INFO | Application has completely stopped
+2026-11-25 12:18:31,558 | INFO | Old executable backed up: C:\Work\Website_Exe\backups\main_20261125_121831.exe
+2026-11-25 12:18:31,559 | INFO | New executable installed
+2026-11-25 12:18:31,559 | INFO | Starting new application
+2026-11-25 12:18:37,104 | INFO | New application started. PID: 6108
+2026-11-25 12:18:37,104 | INFO | ========== UPDATE SUCCESSFUL ==========
+2026-11-25 12:25:03,338 | INFO | ========== UPDATE STARTED ==========
+2026-11-25 12:25:03,721 | INFO | Downloading: https://raw.githubusercontent.com/Sagar-Agicha/ShareMarket_Exe/main/main.exe
+2026-11-25 12:25:20,315 | INFO | Downloaded 82160622 bytes
+2026-11-25 12:25:20,705 | INFO | Executable validation successful
+2026-11-25 12:25:20,705 | INFO | Requesting application shutdown...
+2026-11-25 12:25:20,708 | INFO | Shutdown request (POST) result: HTTP Error 405: Method Not Allowed
+2026-11-25 12:25:20,713 | INFO | Shutdown response (GET): 200
+2026-11-25 12:25:20,713 | INFO | Waiting for application to exit...
+2026-11-25 12:25:26,764 | INFO | Application still running ([20176, 36664]). Initiating process termination fallback...
+2026-11-25 12:25:26,833 | INFO | Application has completely stopped
+2026-11-25 12:25:26,835 | INFO | Old executable backed up: C:\Work\Website_Exe\backups\main_20261125_122526.exe
+2026-11-25 12:25:26,836 | INFO | New executable installed
+2026-11-25 12:25:26,836 | INFO | Starting new application
+2026-11-25 12:25:32,481 | INFO | New application started. PID: 11864
+2026-11-25 12:25:32,481 | INFO | ========== UPDATE SUCCESSFUL ==========
+2026-11-25 12:28:10,510 | INFO | ========== UPDATE STARTED ==========
+2026-11-25 12:28:10,611 | INFO | Downloading: https://raw.githubusercontent.com/Sagar-Agicha/ShareMarket_Exe/main/main.exe
+2026-11-25 12:30:08,673 | INFO | ========== UPDATE STARTED ==========
+2026-11-25 12:30:09,042 | INFO | Downloading: https://raw.githubusercontent.com/Sagar-Agicha/ShareMarket_Exe/main/main.exe
+2026-11-25 12:30:25,643 | INFO | Downloaded 82160622 bytes
+2026-11-25 12:30:26,016 | INFO | Executable validation successful
+2026-11-25 12:30:26,016 | INFO | Requesting application shutdown...
+2026-11-25 12:30:26,019 | INFO | Shutdown request (POST) result: HTTP Error 405: Method Not Allowed
+2026-11-25 12:30:26,023 | INFO | Shutdown response (GET): 200
+2026-11-25 12:30:26,023 | INFO | Waiting for application to exit...
+2026-11-25 12:30:32,072 | INFO | Application still running ([35180, 35464]). Initiating process termination fallback...
+2026-11-25 12:30:32,188 | INFO | Application has completely stopped
+2026-11-25 12:30:32,190 | INFO | Old executable backed up: C:\Work\Website_Exe\backups\main_20261125_123032.exe
+2026-11-25 12:30:32,191 | INFO | New executable installed
+2026-11-25 12:30:32,193 | INFO | Starting new application
+2026-11-25 12:30:38,068 | INFO | New application started. PID: 35548
+2026-11-25 12:30:38,068 | INFO | ========== UPDATE SUCCESSFUL ==========
+2026-11-25 12:38:21,975 | INFO | ========== UPDATE STARTED ==========
+2026-11-25 12:38:22,328 | INFO | Downloading: https://raw.githubusercontent.com/Sagar-Agicha/ShareMarket_Exe/main/main.exe
+2026-11-25 12:38:34,490 | INFO | Downloaded 82160622 bytes
+2026-11-25 12:38:34,942 | INFO | Executable validation successful
+2026-11-25 12:38:34,942 | INFO | Requesting application shutdown...
+2026-11-25 12:38:34,947 | INFO | Shutdown request (POST) result: HTTP Error 405: Method Not Allowed
+2026-11-25 12:38:34,952 | INFO | Shutdown response (GET): 200
+2026-11-25 12:38:34,953 | INFO | Waiting for application to exit...
+2026-11-25 12:38:41,022 | INFO | Application still running ([14992, 32932]). Initiating process termination fallback...
+2026-11-25 12:38:41,098 | INFO | Application has completely stopped
+2026-11-25 12:38:41,101 | INFO | Old executable backed up: C:\Work\Website_Exe\backups\main_20261125_123841.exe
+2026-11-25 12:38:41,102 | INFO | New executable installed
+2026-11-25 12:38:41,102 | INFO | Starting new application
+2026-11-25 12:38:53,869 | INFO | New application is healthy. PID: 30100
+2026-11-25 12:38:53,870 | INFO | ========== UPDATE SUCCESSFUL ==========
