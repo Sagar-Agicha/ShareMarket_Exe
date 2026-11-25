@@ -70,3 +70,142 @@
 {"timestamp": "2026-11-02T09:56:19.751508+00:00", "level": "INFO", "source": "backend", "logger": "backend.main", "message": "Starting server on 0.0.0.0:8000"}
 {"timestamp": "2026-11-02T09:56:19.799428+00:00", "level": "INFO", "source": "backend", "logger": "backend.database", "message": "SQLite database initialized at sqlite:///C:/Work/Website_Exe/users.db"}
 {"timestamp": "2026-11-02T09:56:19.823761+00:00", "level": "INFO", "source": "backend", "logger": "backend.main", "message": "Started Flower on http://0.0.0.0:5555 using broker sqla+sqlite:///C:/Work/Website_Exe/celerydb.sqlite"}
+{"timestamp": "2026-11-20T06:25:38.462736+00:00", "level": "INFO", "source": "backend", "logger": "backend.task_queue", "message": "Using Celery broker sqlite for background tasks"}
+{"timestamp": "2026-11-20T06:25:38.474334+00:00", "level": "INFO", "source": "backend", "logger": "backend.main", "message": "FRONTEND_DIST: C:\\Users\\SAGARA~1\\AppData\\Local\\Temp\\_MEI333762\\frontend\\dist\\sharemarket-dashboard (index exists: True)"}
+{"timestamp": "2026-11-20T06:25:38.480851+00:00", "level": "INFO", "source": "backend", "logger": "backend.database", "message": "SQLite database initialized at sqlite:///C:/Work/Website_Exe/users.db"}
+{"timestamp": "2026-11-20T06:25:38.995300+00:00", "level": "INFO", "source": "backend", "logger": "backend.main", "message": "Starting server on 0.0.0.0:8000"}
+{"timestamp": "2026-11-20T06:25:39.797457+00:00", "level": "INFO", "source": "backend", "logger": "backend.database", "message": "SQLite database initialized at sqlite:///C:/Work/Website_Exe/users.db"}
+{"timestamp": "2026-11-20T06:25:40.104805+00:00", "level": "INFO", "source": "backend", "logger": "backend.main", "message": "Started Flower on http://0.0.0.0:5555 using broker sqla+sqlite:///C:/Work/Website_Exe/celerydb.sqlite"}
+{"timestamp": "2026-11-20T06:51:13.600306+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.export", "message": "Export request received: https://www.dropbox.com/scl/fo/cwsbbv35dkvhputpzwr3z/AFfQiIytNAv7wx2FbHKPovc?rlkey=vjxfm3g13ffd5kj72s0rbiz8w&e=1&dl=0"}
+{"timestamp": "2026-11-20T06:51:15.232347+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:51:17.207667+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:51:19.208307+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:51:21.207593+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:51:23.270614+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:51:25.279124+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:51:27.273793+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:51:29.280993+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:51:31.208597+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:51:33.275382+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:51:35.270119+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:51:37.279024+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:51:39.269067+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:51:41.274759+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:51:43.278658+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:51:45.269173+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:51:47.276925+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:51:49.278416+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:51:51.278457+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:51:53.270757+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:51:55.269899+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:51:57.231414+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:51:59.207857+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:52:01.280956+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:52:03.274625+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:52:05.272545+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:52:07.280049+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:52:09.274927+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:52:11.266350+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:52:13.275978+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:52:15.273467+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:52:17.270380+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:52:19.208802+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:52:21.278633+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:52:23.268179+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:52:25.269997+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:52:27.279258+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:52:29.268919+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:52:31.276171+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:52:33.283107+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:52:35.272483+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:52:37.279745+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:52:39.275627+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:52:41.281669+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:52:43.280006+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:52:45.269690+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:52:47.275053+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:52:49.270677+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:52:51.277470+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:52:53.272000+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:52:55.280870+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:52:57.277316+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:52:59.280058+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:53:01.280816+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:53:03.267514+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:53:05.269244+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:53:07.271667+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:53:09.272858+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:53:11.279781+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:53:13.271127+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:53:15.279656+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:53:17.280572+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:53:19.272139+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:53:31.282106+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:54:31.281556+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:55:31.277728+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:56:18.209138+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:56:19.209363+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:56:21.208361+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:56:23.280396+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:56:25.273543+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:56:27.276940+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:56:29.281585+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:56:31.277942+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:56:33.281747+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:56:35.285612+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:56:37.286793+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:56:39.279392+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:56:41.278065+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:56:43.274923+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:56:45.276178+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:56:47.211748+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:56:49.273281+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:56:51.281948+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:56:53.288579+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:56:55.280757+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:56:57.281228+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:56:59.276197+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:57:01.294120+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:57:03.271514+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:57:05.279596+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:57:07.306965+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:57:09.271543+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:57:11.272991+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:57:13.278348+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:57:15.277406+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:57:17.275423+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:57:19.279526+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:57:21.274685+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:57:23.278518+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:57:25.274420+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:57:27.282365+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:57:29.274842+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:57:31.275080+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:57:33.272770+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:57:35.273980+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:57:37.275233+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:57:39.268649+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:57:41.272688+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:57:43.277082+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:57:45.274789+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:57:47.279867+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:58:31.269002+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T06:59:31.275860+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T07:00:31.278045+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T07:01:31.269763+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T07:02:31.282382+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T07:03:31.279060+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T07:04:31.281553+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T07:05:31.303179+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T07:06:31.296111+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T07:07:31.283989+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T07:08:31.287531+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T07:09:31.270391+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T07:10:31.293651+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-20T07:11:31.268606+00:00", "level": "INFO", "source": "backend", "logger": "backend.routes.task_manager", "message": "Task manager requested"}
+{"timestamp": "2026-11-25T06:29:16.806360+00:00", "level": "INFO", "source": "backend", "logger": "backend.task_queue", "message": "Using Celery broker sqlite for background tasks"}
+{"timestamp": "2026-11-25T06:29:16.814861+00:00", "level": "INFO", "source": "backend", "logger": "backend.main", "message": "FRONTEND_DIST: C:\\Users\\SAGARA~1\\AppData\\Local\\Temp\\_MEI298682\\frontend\\dist\\sharemarket-dashboard (index exists: True)"}
+{"timestamp": "2026-11-25T06:29:16.821863+00:00", "level": "INFO", "source": "backend", "logger": "backend.database", "message": "SQLite database initialized at sqlite:///C:/Work/Website_Exe/users.db"}
+{"timestamp": "2026-11-25T06:29:16.860525+00:00", "level": "INFO", "source": "backend", "logger": "backend.main", "message": "Starting server on 0.0.0.0:8000"}
+{"timestamp": "2026-11-25T06:29:16.911636+00:00", "level": "INFO", "source": "backend", "logger": "backend.database", "message": "SQLite database initialized at sqlite:///C:/Work/Website_Exe/users.db"}
+{"timestamp": "2026-11-25T06:29:16.938296+00:00", "level": "INFO", "source": "backend", "logger": "backend.main", "message": "Started Flower on http://0.0.0.0:5555 using broker sqla+sqlite:///C:/Work/Website_Exe/celerydb.sqlite"}
